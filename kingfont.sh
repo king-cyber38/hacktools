@@ -1,7 +1,7 @@
 #!/system/xbin/bash
 #Jangan Recode
 clear
-toilet -f slant -F gay "kingfont"
+toilet -f slant -F gay "KINGFONT"
 sleep 0.30
 echo "\033[31;1m [★]================================================[★]"
 echo "\033[32;1m [-]        powered by : amirking38000              [-]"
