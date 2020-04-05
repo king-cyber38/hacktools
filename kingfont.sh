@@ -1,12 +1,12 @@
 #!/system/xbin/bash
 #Jangan Recode
 clear
-toilet -f slant -F gay "KINGFONT"
+toilet -f slant -F gay "KING FONT"
 sleep 0.30
 echo "\033[31;1m [★]================================================[★]"
-echo "\033[32;1m [-]        powered by : amirking38000              [-]"
-echo "\033[36;1m [★]               king-cyber38                     [★]"
-echo "\033[32;1m [-]              Version  : 2.3                    [-]"
+echo "\033[32;1m [-]               font tools                      [-]"
+echo "\033[36;1m [★]            [ king-cyber38 ]                    [★]"
+echo "\033[32;1m [-]             Version  :  2.3                    [-]"
 echo "\033[31;1m [★]================================================[★]"
 sleep 2
 echo ""
